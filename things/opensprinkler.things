@@ -1,4 +1,4 @@
-Bridge opensprinkler:http:http [hostname="192.168.1.153", port=80, pasword="gioloeleari", refresh=30] {
+Bridge opensprinkler:http:http [hostname="192.168.1.153", port=80, pasword="", refresh=30] {
     Thing station 01 [stationIndex=1]
     Thing station 02 [stationIndex=2]
     Thing station 03 [stationIndex=3]
